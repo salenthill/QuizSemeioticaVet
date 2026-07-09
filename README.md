@@ -1,1 +1,1 @@
-Quiz interattivo di autovalutazione per la semiotica veterinaria, con domande a risposta multipla, feedback e punteggio finale.
+Quiz interattivo di autovalutazione per Semeiotica Veterinaria, con domande a risposta multipla, feedback e punteggio finale.
